@@ -1,0 +1,3 @@
+[submodule "curso-rails"]
+	path = curso-rails
+	url = https://github.com/jdwather93/curso-rails.git
